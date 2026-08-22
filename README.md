@@ -33,4 +33,3 @@ Personal profile overview, certifications, and technical skills.
 
 ---
 
-*Last updated: August 2026*
