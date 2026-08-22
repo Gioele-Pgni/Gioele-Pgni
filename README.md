@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Gioele 
 
-<!--
-**Gioele-Pgni/Gioele-Pgni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal profile overview, certifications, and technical skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+### Coursera / University of Michigan
+* **Python for Everybody Specialization**
+  1. **Programming for Everybody (Getting Started with Python)**
+     * Preview: [`p4e-1-getting-started.png`](./certificates/p4e-1-getting-started.png)
+  2. **Python Data Structures**
+     * Preview: [`p4e-2-data-structures.png`](./certificates/p4e-2-data-structures.png)
+  3. **Using Python to Access Web Data**
+     * Preview: [`p4e-3-web-data.png`](./certificates/p4e-3-web-data.png)
+  4. **Using Databases with Python**
+     * Preview: [`p4e-4-databases.png`](./certificates/p4e-4-databases.png)
+  5. **Capstone: Retrieving, Processing, and Visualizing Data with Python**
+     * Preview: [`p4e-5-capstone.png`](./certificates/p4e-5-capstone.png)
+
+### Coursera / Microsoft
+* **Microsoft Python Development**
+  * **Python Programming Fundamentals**
+    * Preview: [`microsoft-python-fundamentals.png`](./certificates/microsoft-python-fundamentals.png)
+
+---
+
+## Technical Skills
+
+* **Languages:** Python, SQL
+* **Tools & Technologies:** Git, GitHub, VS Code, Databases (SQLite)
+
+---
+
+*Last updated: August 2026*
