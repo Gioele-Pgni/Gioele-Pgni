@@ -1,4 +1,4 @@
-# Hi, I'm Gioele 👋
+# Hi, I'm Gioele 
 
 Personal profile overview, certifications, and technical skills.
 
