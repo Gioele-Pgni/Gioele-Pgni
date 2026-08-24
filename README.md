@@ -16,7 +16,7 @@ Personal profile overview, certifications, and technical skills.
 
 ### Coursera / Microsoft
 * **Microsoft Python Development**
-  * **[Python Programming Fundamentals](https://www.coursera.org/learn/python-programming-fundamentals)**
+  * **[Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals)**
 
 ---
 
