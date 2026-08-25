@@ -20,7 +20,10 @@ Personal profile overview, certifications, and technical skills.
 
 ---
 
-## Technical Skills
 
-* **Languages:** Python, SQL
-* **Tools & Technologies:** Git, GitHub, VS Code, Spyder, Databases (SQLite)
+# Technical Skills
+
+* **Languages:** Python, SQL, EasyLanguage, MQL4
+* **Tools & Technologies:** Git, GitHub, VS Code, Spyder, MultiCharts, MetaTrader 4, Databases (SQLite)
+
+```
