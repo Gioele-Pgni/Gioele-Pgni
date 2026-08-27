@@ -2,8 +2,8 @@
 
 Passionate about Programming & Algorithmic Trading
 
-
 > **Note on Certifications:** To protect personal privacy and prevent the counterfeiting or unauthorized distribution of official certificate documents, direct links to the official course curricula are provided in place of certificate image files.
+
 ---
 
 ## Certifications & Education
@@ -22,11 +22,16 @@ Passionate about Programming & Algorithmic Trading
 
 ### Coursera / Packt 
 * **[TradeStation EasyLanguage for Algorithmic Trading](https://www.coursera.org/learn/packt-tradestation-easylanguage-for-algorithmic-trading)**
+
 ---
 
-# Technical Skills
+## Technical Skills
 
 * **Languages:** Python, SQL, EasyLanguage, MQL4
 * **Tools & Technologies:** Git, GitHub, VS Code, Spyder, MultiCharts, MetaTrader 4, Databases (SQLite)
 
-```
+---
+
+## Contact & Connect
+
+* **Email:** [tua-email@example.com](mailto:tua-email@example.com)
