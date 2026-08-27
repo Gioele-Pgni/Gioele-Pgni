@@ -1,7 +1,8 @@
 # Hi, I'm Gioele 
-
 Personal profile overview, certifications, and technical skills.
 
+
+> **Note on Certifications:** To protect personal privacy and prevent the counterfeiting or unauthorized distribution of official certificate documents, direct links to the official course curricula are provided in place of certificate image files.
 ---
 
 ## Certifications & Education
