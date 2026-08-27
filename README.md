@@ -15,7 +15,7 @@ Personal profile overview, certifications, and technical skills.
   4. **[Using Databases with Python](https://www.coursera.org/learn/python-databases)**
   5. **[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)**
 
-### Coursera / Microsoft
+### Coursera / Microsoft *(In Progress)*
 * **Microsoft Python Development**
   * **[Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals)**
 
