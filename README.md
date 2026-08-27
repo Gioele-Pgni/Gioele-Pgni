@@ -18,8 +18,9 @@ Personal profile overview, certifications, and technical skills.
 * **Microsoft Python Development**
   * **[Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals)**
 
+### Packt / Coursera
+* **[TradeStation EasyLanguage for Algorithmic Trading](https://www.coursera.org/learn/packt-tradestation-easylanguage-for-algorithmic-trading)**
 ---
-
 
 # Technical Skills
 
