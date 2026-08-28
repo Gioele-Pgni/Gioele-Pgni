@@ -4,8 +4,6 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 
 ---
 
-> **Note on Certifications:** To protect personal privacy and prevent the counterfeiting or unauthorized distribution of official certificate documents, direct links to the official course curricula are provided in place of certificate image files.
-
 ---
 
 ## Certifications & Education
@@ -33,6 +31,8 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 * **Tools & Technologies:** Git, GitHub, VS Code, Spyder, MultiCharts, MetaTrader 4, Databases (SQLite)
 
 ---
+
+> **Note on Certifications:** To protect personal privacy and prevent the counterfeiting or unauthorized distribution of official certificate documents, direct links to the official course curricula are provided in place of certificate image files.
 
 ## Contact & Connect
 
