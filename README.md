@@ -31,7 +31,7 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 
 ## Contact & Connect
 
-* **Email:** [tua-email@example.com](mailto:tua-email@example.com)
+* **Email:** [email@example.com](email@example.com)
 
 ---
 
