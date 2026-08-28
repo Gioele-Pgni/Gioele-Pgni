@@ -2,7 +2,7 @@
 
 Passionate about Programming & Algorithmic Trading Strategy Development
 
----
+
 
 ## Certifications & Education
 
