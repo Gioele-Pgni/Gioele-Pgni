@@ -1,5 +1,5 @@
 # Welcome, I'm Gioele
->Passionate about Programming & Algorithmic Trading Strategy Development
+Passionate about Programming & Algorithmic Trading Strategy Development
 
 
 
@@ -28,7 +28,6 @@
 * **Tools & Technologies:** Git, GitHub, VS Code, Spyder, MultiCharts, MetaTrader 4, Databases (SQLite)
 
 ---
-
 
 ## Contact & Connect
 
