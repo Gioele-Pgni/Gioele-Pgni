@@ -1,6 +1,5 @@
 # Welcome, I'm Gioele
-
-Passionate about Programming & Algorithmic Trading Strategy Development
+>Passionate about Programming & Algorithmic Trading Strategy Development
 
 
 
