@@ -35,7 +35,7 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 
 ## Contact & Connect
 
-* **Email:** [gio.dev.services@proton.me](gio.dev.services@proton.me)
+* **Email:** gio.dev.services@proton.me
 
 ---
 
