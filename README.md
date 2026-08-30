@@ -19,7 +19,7 @@ Passionate about Programming & Algorithmic Trading Strategy Development
   * **[Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals)**
 
 ### freeCodeCamp *(In Progress)*
-* **[Scientific Computing with Python](https://github.com/Gioele-Pgni/my-freecodecamp-journey)**
+* **[Python Certification](https://github.com/Gioele-Pgni/my-freecodecamp-journey)**
 
 ### Coursera / Packt 
 * **[TradeStation EasyLanguage for Algorithmic Trading](https://www.coursera.org/learn/packt-tradestation-easylanguage-for-algorithmic-trading)**
