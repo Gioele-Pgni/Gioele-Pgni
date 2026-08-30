@@ -1,7 +1,8 @@
 # Welcome, I'm Gioele
+
 Passionate about Programming & Algorithmic Trading Strategy Development
 
-
+---
 
 ## Certifications & Education
 
@@ -17,6 +18,9 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 * **Microsoft Python Development**
   * **[Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals)**
 
+### freeCodeCamp *(In Progress)*
+* **[Scientific Computing with Python](https://github.com/Gioele-Pgni/my-freecodecamp-journey)**
+
 ### Coursera / Packt 
 * **[TradeStation EasyLanguage for Algorithmic Trading](https://www.coursera.org/learn/packt-tradestation-easylanguage-for-algorithmic-trading)**
 
@@ -31,10 +35,8 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 
 ## Contact & Connect
 
-* **Email:** [email@example.com](email@example.com)
+* **Email:** [email@example.com](mailto:email@example.com)
 
 ---
 
 > **Note on Certifications:** To protect personal privacy and prevent the counterfeiting or unauthorized distribution of official certificate documents, direct links to the official course curricula are provided in place of certificate image files.
-
----
