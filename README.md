@@ -29,7 +29,7 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 ## Technical Skills
 
 * **Languages:** Python, SQL, EasyLanguage, MQL4
-* **Tools & Technologies:** Git, GitHub, VS Code, Spyder, MultiCharts, MetaTrader 4, Databases (SQLite)
+* **Tools & Technologies:** Git, GitHub, VS Code, Spyder, Databases (SQLite) , MultiCharts, MetaTrader 4
 
 ---
 
