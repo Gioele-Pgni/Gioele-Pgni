@@ -30,7 +30,7 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 
 * **Languages:** Python, SQL, EasyLanguage, MQL4
 * **Tools & Technologies:** Git, GitHub, VS Code, Spyder, Databases (SQLite), MultiCharts, MetaTrader 4
-* **Domain Expertise:** Professional Training in Algorithmic Trading Systems Development
+* **Domain Expertise:** Professional Training in Algorithmic Trading Systems Development (Mentored by Professional Traders)
 
 ---
 
