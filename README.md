@@ -1,4 +1,4 @@
-# Welcome, I'm Gioele
+# Welcome, I'm Gio
 
 Passionate about Programming & Algorithmic Trading Strategy Development
 
